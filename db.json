@@ -1,0 +1,28 @@
+{
+   "devs"   : [
+       {
+           "id"             : 1,
+           "name"           : "Asraful Haque",
+           "age"            : 10, 
+           "skill"          : "Laravel Developer",
+           "location"       : "Mirpur",
+           "photo"          : "https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/271547251_10221668395318941_1938174359673295619_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFgGFwYL9WfRsyXtki9YHCMbVX3-HfzPKZtVff4d_M8psC1RcD2GkFtgu1C9HS5zwg&_nc_ohc=BDrK4pxNbD8AX8aQ8N1&_nc_ht=scontent.fdac24-2.fna&oh=00_AT8Lvnv5ewQj4_2sCvA3mQ_u5vFy6aJEAUrJs3CK5gs7MQ&oe=620AA514"
+       },
+       {
+        "id"             : 2,
+        "name"           : "Jillur Rahman",
+        "age"            : 9, 
+        "skill"          : "WordPRess Developer",
+        "location"       : "Uttara",
+        "photo"          : "https://scontent.fdac24-2.fna.fbcdn.net/v/t1.6435-9/75388139_1651665101625513_5899069291075993600_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_eui2=AeE0AD7PdQkVHhfgswZLYHCo6BGSY1syuWnoEZJjWzK5afgxPCRiSplybIDMVocOjNU&_nc_ohc=Hl4ARlTUV74AX-PLiC-&_nc_ht=scontent.fdac24-2.fna&oh=00_AT83J5ZIHIQ0r4yjIJqmrlFg47GyvKkVin70UmyKe3jJVw&oe=622E3109"
+    },
+    {
+        "id"             : 3,
+        "name"           : "Rana Vai",
+        "age"            : 8, 
+        "skill"          : "IOS Developer",
+        "location"       : "Uttara",
+        "photo"          : "https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/270182952_3053775348224061_8743289508235290382_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFo645Scq4NAswRlD5XwWJKAoa8VLhxIskChrxUuHEiyWbFJ_Rrnj7tkOwhpoO96p0&_nc_ohc=rlKEcjUvaOEAX8AM20O&_nc_ht=scontent.fdac24-2.fna&oh=00_AT94MpCZbZWrc1suTeE7NCvnrSZiWLQvWPHWi43l4D-nsw&oe=620C0D5B"
+    }
+   ] 
+}
